@@ -223,7 +223,6 @@ public class CoffeeMachine {
                         case "back":
                             break;
                     }
-
                     break;
                 case "fill":
                     System.out.println();
